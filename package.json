@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "@rahulsharma2108/remixapp",
+  "version":"1.0.0",
   "workspaces": [
     "packages/*"
   ],
